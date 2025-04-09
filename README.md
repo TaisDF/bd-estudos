@@ -33,5 +33,6 @@ Repositório com estudos de **Banco de Dados**, reunindo conteúdo da universida
 
 ---
 
+**Principais comandos SQL** : https://colab.research.google.com/drive/1DU75f2lMCRtoajHrHUFwrZJvAES-Tw6W?usp=sharing
 
 
