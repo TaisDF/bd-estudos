@@ -192,7 +192,3 @@ p.CPF AS CPF_paciente, p.nome AS nome_paciente, c.data
 FROM medicos m
 LEFT JOIN consultas c ON m.codigo = c.codigo_medico
 LEFT JOIN pacientes p ON c.codigo_paciente = p.codigo;
-
-
--- Exercício 3
-
